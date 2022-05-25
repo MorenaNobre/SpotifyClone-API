@@ -1,6 +1,10 @@
+import Login from "./components/Login/Login";
+
 function App() {
   return (
-    <h1>Hello Spotify Clone!</h1>
+    <div>
+      <Login />
+    </div>
   );
 }
 
