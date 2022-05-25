@@ -1,9 +1,9 @@
-import {} from "./Sidebar"
+import {Container} from "./SidebarStyles"
 
 export default function Sidebar() {
   return (
-    <div>
-      
-    </div>
+    <Container>
+      Sidebar
+    </Container>
   )
 }

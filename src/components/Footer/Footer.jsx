@@ -1,9 +1,9 @@
-import {} from "./Footer"
+import {Container} from "./FooterStyles"
 
 export default function Footer() {
   return (
-    <div>
-      
-    </div>
+    <Container>
+      Footer
+    </Container>
   )
 }
