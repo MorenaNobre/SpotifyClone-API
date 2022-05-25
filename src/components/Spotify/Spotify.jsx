@@ -1,5 +1,18 @@
+import {Container} from "./SpotifyStyles"
+
 export default function Spotify() {
   return (
-    <h1>Spotify</h1>
+    <Container>
+      <div className="spotify__body">
+        <div className="body">
+          <div className="body__contents">
+
+          </div>
+        </div>
+      </div>
+      <div className="spotify__footer">
+        
+      </div>
+    </Container>
   )
 }
